@@ -1,0 +1,5 @@
+--  Todo for website --
+    - Add pages
+    - Redo HomePage
+    - Add blog
+
